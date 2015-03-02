@@ -95,6 +95,41 @@ body {
         }
     }
     
+    .price {
+        background-color: #be001e;
+        padding: 16px 92px 16px 108px;
+        display: inline-block;
+        position: relative;
+        left: -108px;
+        color: white;
+        
+        &:after {
+            content: '';
+            display: block;
+            position: absolute;
+            bottom: -16px;
+            left: 0;
+            width: 0;
+            height: 0;
+            border-style: solid;
+            border-width: 0 16px 16px 0;
+            border-color: transparent darken(#be001e,15%) transparent transparent;
+        }
+        
+        &:before {
+            content: '';
+            display: block;
+            position: absolute;
+            border: 32px solid transparent;
+            width: 64px;
+            top:0;
+            bottom: 0;
+            right: 0;
+            border-right-color:white;
+        }
+        
+    }
+    
 }
 
 //gallery
