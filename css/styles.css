@@ -443,6 +443,13 @@ body {
 .prose li li {
   list-style: square;
 }
+.prose p a {
+  color: #be001e;
+  text-decoration: none;
+}
+.prose p a:hover {
+  text-decoration: underline;
+}
 @media screen and (max-width: 960px) {
   .prose {
     padding: 32px;
