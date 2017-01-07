@@ -1,7 +1,7 @@
 ## Table for 23 people booked under Katie Roobottom. Sunday 15th January 2017 @ 12pm.
 
 | Name | starter | main |
-|:--|:--|
+|:---|:---|:---|
 | Katie | - | Roast Beef | 
 | Jon | - | Steak & Mushroom Pie with chips _not_ mash please |
 | Ember _(child)_ | - | Tomato Pasta |
